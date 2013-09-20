@@ -1,9 +1,16 @@
 [submodule "wikidata-analytics"]
+
 	path = wikidata-analytics
+
 	url = git@github.com:vrandezo/wikidata-analytics.git
+
 [submodule "wda"]
+
 	path = wda
+
 	url = git@github.com:mkroetzsch/wda.git
+
 [submodule "wikiglobe"]
+
 	path = wikiglobe
 	url = git@github.com:vrandezo/wikiglobe.git
